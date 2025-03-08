@@ -1,3 +1,4 @@
+out.write(”aString”);
 } finally {
 
 } catch (IOException e) {
