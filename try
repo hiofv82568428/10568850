@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 public void fetch() throws SQLException, IOException
 out.write(”aString”);
 } finally {
