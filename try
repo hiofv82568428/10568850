@@ -1,3 +1,4 @@
+// error processing code
 ResultSet rs = ps.executeQuery();
 BufferedWriter out = null;
 public void fetch() throws SQLException, IOException
