@@ -1,3 +1,4 @@
+Connection con;
 // error processing code
 ResultSet rs = ps.executeQuery();
 BufferedWriter out = null;
