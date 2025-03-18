@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 Connection con;
 // error processing code
 ResultSet rs = ps.executeQuery();
